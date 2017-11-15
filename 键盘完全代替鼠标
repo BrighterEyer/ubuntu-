@@ -1,0 +1,103 @@
+
+
+==================================  keynav  ==========start============
+安装keynav二分法确定鼠标中心点范围
+apt-get install keynav
+
+命令行开启keynav:
+keynav &
+
+命令行打开田框
+Ctrl+;
+
+向某个方向范围缩小当前面选区域一半的范围:
+左h
+右l
+下k
+上j
+
+范围不变，当前选取向某个方向移动
+左Shift+h
+右Shift+l
+下Shift+k
+上Shift+j
+
+
+c:中间
+t:定格到一个窗口
+y:左上u右上
+b:左下n右下
+
+e:取消选区
+
+按"空格"与"Enter"键的区别:
+空格定位但不会跳转,Enter定位并且在能跳转时跳转
+
+==================================  keynav  ==========end=============
+右键:
+Ctrl+F10
+
+切换工作区
+Win+S  +(上下左右方向键)
+
+移动窗口到工作区:
+Ctrl+Alt+Shift +(上下左右方向键)
+
+移动窗口:
+Alt+F7  +(上下左右方向键) +回车目标位置定位(或Esc退回原位)
+
+Ctrl+Win+(上下左右方向键)系列:
+指定窗口全屏
+Ctrl+Win+上方向
+指定窗口最小化
+Ctrl+Win+下方向
+指定窗口占据左边一半
+Ctrl+Win+左方向
+指定窗口占据右边一半
+Ctrl+Win+右方向
+
+菜单操作:
+Alt+Space
+
+关闭窗口:
+Alt + F4
+
+查看文件属性:
+Alt+Enter
+
+打开命令行当前位置目录窗口:
+nautilus .
+
+
+========================  浏览器  ================
+新打开一个浏览器打开主页
+Ctrl+n
+
+关闭当前标签
+Ctrl+w
+
+后退、前进
+Alt    +(左右键)
+
+
+=======================  终端  ====================
+终端滚动条上下滚动:
+Alt+Shift PageUp/PageDown;
+选中终端字符串后,Ctrl+Shift+c复制选中字符;
+Ctrl+Shift+v将剪切板的内容粘贴到终端命令行;
+Ctrl+a 开始位置;
+Ctrl+e 最后位置;
+Ctrl+k 删除此处到末尾所有内容   cut;
+Ctrl+u 删除开始至此处所有内容   util;
+Ctrl+w 删除左边单词;
+Ctrl+y 粘贴由Ctrl+u,Ctrl+d,Ctrl+删除的字符;
+Ctrl+l 清空屏幕;
+
+
+======================== AS快捷键 =================
+
+http://www.android-studio.org/index.php/docs/experience/142-androidstudio-shortcut-keys
+
+
+
+
